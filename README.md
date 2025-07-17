@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hmk-attio-mcp-server-badge.png)](https://mseep.ai/app/hmk-attio-mcp-server)
+
 # attio-mcp-server
 
 This is an MCP server for [Attio](https://attio.com/), the AI-native CRM. It allows mcp clients (like Claude) to connect to the Attio API.
